@@ -61,3 +61,6 @@ Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado 
 Por fim clique em OK
 
 Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆
+
+
+<img src""/>
