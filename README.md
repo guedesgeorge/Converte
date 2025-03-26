@@ -1,47 +1,63 @@
 CONVERSOR DE MOEDAS
 
-DESCRIÇÃO
+✔️ Técnicas e Tecnologias Utilizadas
 
-O CONVERSOR DE MOEDAS É UM APLICATIVO WEB QUE PERMITE CONVERTER VALORES DO REAL (BRL) PARA DÓLAR (USD), EURO (EUR) E LIBRA ESTERLINA (GBP). ELE UTILIZA A API EXCHANGERATE-API PARA OBTER AS TAXAS DE CÂMBIO ATUALIZADAS EM TEMPO REAL.
+As técnicas e tecnologias utilizadas neste projeto incluem:
 
-TECNOLOGIAS UTILIZADAS
+CLIENTE:
 
-HTML
+HTML: criação dos elementos da tela;
 
-CSS
+CSS: estilização da aplicação;
 
-JAVASCRIPT
+JavaScript: manipulação do DOM e interatividade;
 
-EXCHANGERATE-API
+ExchangeRate-API: obtenção das taxas de câmbio atualizadas.
 
-COMO RODAR O PROJETO
+SERVIDOR:
 
-CLONE ESTE REPOSITÓRIO:
+Node.js: para interações assíncronas;
+
+Fetch API: requisições HTTP para obter os valores de câmbio.
+
+📁 Acesso ao Projeto
+
+Você pode acessar o código fonte do projeto ou baixá-lo diretamente pelo repositório:
 
 git clone https://github.com/seu-usuario/conversor-de-moedas.git
 
-ACESSE A PASTA DO PROJETO:
+🛠️ Como Abrir e Rodar o Projeto
 
-cd conversor-de-moedas
+Após baixar o projeto, siga os passos abaixo para executá-lo:
 
-ABRA O ARQUIVO INDEX.HTML NO NAVEGADOR.
+Abrir com Visual Studio Code:
 
-FUNCIONALIDADES PRINCIPAIS
+No menu superior, clique em File > Open Folder;
 
-CONVERSÃO DE VALORES DO REAL PARA OUTRAS MOEDAS ESTRANGEIRAS (USD, EUR, GBP);
+Procure o local onde o projeto está salvo e selecione a pasta (Caso o projeto seja baixado via zip, extraia antes);
 
-ATUALIZAÇÃO AUTOMÁTICA DAS TAXAS DE CÂMBIO VIA API;
+✔️ Técnicas e tecnologias utilizadas
 
-INTERFACE INTUITIVA E RESPONSIVA;
+As técnicas e tecnologias utilizadas pra isso são:
 
-EXIBIÇÃO DA TAXA DE CÂMBIO UTILIZADA PARA CONVERSÃO.
+HTML: criação dos elementos da tela;
 
-EXEMPLO DE USO
+CSS: estilização da aplicação;
 
-DIGITE UM VALOR EM REAIS, SELECIONE A MOEDA DESEJADA E CLIQUE NO BOTÃO "CONVERTER EM REAIS". O RESULTADO SERÁ EXIBIDO ABAIXO DO FORMULÁRIO.
+JavaScript: construção de elementos dinâmicos através da manipulação do DOM.
 
-AUTOR
+📁 Acesso ao projeto
 
-DESENVOLVIDO POR GEORGE GUEDES.
+Você pode acessar o código fonte do projeto inicial ou baixá-lo.
 
+🛠️ Abrir e rodar o projeto
 
+Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
+
+File > Open Folder (ou alguma opção similar)
+
+Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
+
+Por fim clique em OK
+
+Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆
