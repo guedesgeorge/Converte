@@ -1,3 +1,7 @@
+
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/ffe49391-52ab-4bd9-a026-c503ff091806" />
+
 CONVERSOR DE MOEDAS
 
 ✔️ Técnicas e Tecnologias Utilizadas
