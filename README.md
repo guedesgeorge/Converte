@@ -2,10 +2,10 @@
 
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/ffe49391-52ab-4bd9-a026-c503ff091806" />
 
-💱 Conversor de Moedas
+# 💱 Conversor de Moedas
 Este é um projeto simples e prático de conversor de moedas que utiliza a ExchangeRate-API para fornecer taxas de câmbio em tempo real. Desenvolvido com HTML, CSS e JavaScript puro.
 
-🚀 Tecnologias Utilizadas
+# 🚀 Tecnologias Utilizadas
 HTML: Estrutura da interface;
 
 CSS: Estilização da aplicação;
@@ -17,7 +17,7 @@ ExchangeRate-API: Obtenção de taxas de câmbio atualizadas por meio de requisi
 
 
 
-🛠️ Como Executar o Projeto
+# 🛠️ Como Executar o Projeto
 Baixe ou clone o repositório;
 
 Abra no Visual Studio Code:
@@ -32,23 +32,23 @@ Instale a extensão Live Server;
 
 Clique com o botão direito no arquivo index.html e selecione "Open with Live Server".
 
-🏆 Funcionalidades
+# 🏆 Funcionalidades
 Conversão em tempo real entre diferentes moedas;
 
 Interface limpa e intuitiva;
 
 Atualização automática das taxas de câmbio pela API.
 
-📌 Requisitos
+# 📌 Requisitos
 Navegador moderno (Chrome, Firefox, Edge);
 
 Visual Studio Code (recomendado);
 
 Extensão Live Server (opcional, para testar localmente com mais facilidade).
 
-🤝 Contribuições
+# 🤝 Contribuições
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request com melhorias.
 
-📄 Licença
+# 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
